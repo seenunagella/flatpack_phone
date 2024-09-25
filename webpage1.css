@@ -804,7 +804,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width:800px;
         position: relative;
     
         #navbar {
@@ -812,7 +811,7 @@
             flex-direction: row;
             justify-content: center;
             align-items: center;
-            gap:300px;
+            gap:200px;
             padding: 20px 0px;
     
             #navbox {
